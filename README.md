@@ -1,1 +1,1 @@
-# andrii_yashcholt.github.io
+# andriiyashcholt.github.io
