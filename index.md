@@ -23,7 +23,10 @@
 •	Draft sections of the State Monitoring Programme in the field of atmospheric air protection for the Vinnytsia zone for 2022-2026 were developed.
 •	On request: Innovinprom LLC and the Department of Territorial and Infrastructure Development of Vinnytsia Regional State Administration
 
-View code on Colab
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+[View Presentation] (https://sait.vntu.edu.ua/wp-content/uploads/2023/02/V_atmo_m.pdf)
+
 
 ---
 
