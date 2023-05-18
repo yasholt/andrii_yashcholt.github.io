@@ -30,12 +30,76 @@
 
 [View Presentation](https://sait.vntu.edu.ua/wp-content/uploads/2023/02/V_atmo_m.pdf)
 
+---
+### Systematic analysis and forecasting of changes in the concentration of dissolved oxygen in water in the Southern Bug River (2021)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+[Kaggle.com](https://www.kaggle.com/neophobia/fork-of-wq-sb-river-eda-and-forecasting-suspen)
+
+---
+### Information technology for predicting nitrate concentration in the river water of the Southern Bug (2021)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+[Presentation](https://drive.google.com/file/d/1Xo6AQ-BB83gUjqSQI0ySN3T4akS3hLIu/view?usp=share_link)
+
+---
+### INTELLIGENT TECHNOLOGY FOR ANALYSING AND PREDICTING USED CAR PRICES
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+[Article](https://visnyk.vntu.edu.ua/index.php/visnyk/article/view/2445/2343)
+
+---
+##INFORMATION TECHNOLOGY FOR ANALYSING AND FORECASTING THE MULTIWAVE NUMBER OF NEW CASES OF COVID-19 CORONAVIRUS BASED ON THE PROPHET MODEL
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+[Article](https://visnyk.vntu.edu.ua/index.php/visnyk/article/view/2555/2430)
+
+---
+### INFORMATION TECHNOLOGY FOR ANALYSING AND FORECASTING THE NUMBER OF NEW CASES OF SARS-COV-2 CORONAVIRUS IN UKRAINE BASED ON THE PROPHET MODEL
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+[Article](https://visnyk.vntu.edu.ua/index.php/visnyk/article/view/2539/2422)
+
+[Kaggle.com](https://www.kaggle.com/code/yasholt/covid19-in-ua-long-term-forecast-with-prophet)
+
+---
+### Information and analytical web-based system for forecasting online store sales(2022)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+[Presentation](https://drive.google.com/file/d/1J4G4oMe3Yj7FEGwsCg9DereOLMNrYtbI/view?usp=share_link)
+
+---
+### Intelligent technology for analysing and predicting used car prices(2022)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+[Presentation](https://drive.google.com/file/d/1skXMU4j4I8q3e0Lil560R-2MxxvyXVVv/view?usp=sharing)
+
+---
+### Information technology for forecasting the XRP cryptocurrency rate in 2021
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+[Presentation](https://drive.google.com/file/d/1efa8v2GC4XfKeRuO7QdfdU1PiNGiNJ4a/view?usp=sharing)
+
+---
+---
+---
+
+
 ### Creation and implementation of the geoinformation cadastre of water bodies of Vinnytsia region (No. DR 0118U006597) (2018)
 •	A geoinformation cadastre of water bodies in Vinnytsia Oblast was created and implemented.
 
 •	The use of the developed geoinformation cadastre is expected to increase the validity, efficiency and effectiveness of decision-making on integrated management of water bodies in Vinnytsia Oblast.
 
 •	Commissioned by the Department of Agricultural Development, Ecology and Natural Resources
+
 ---
 ### Development of models, data structure, algorithms for data processing and analysis and interface layout of the network information system for accounting and analysis of water use processes at the regional level (№ DR 0112U001564) (2012)
 
@@ -63,6 +127,17 @@ On request: Beryslav, Henichesk, Hornostaiv, Ivanivka, Novotroitsk, Tsyurupynsk 
 [![]([https://img.shields.io/badge/Python-white?logo=Python](https://www.google.com/imgres?imgurl=x-raw-image%3A%2F%2F%2F69632fa1340f6153dbb9c1a53fae04a0667a6b01983632307cc0fbffeabd2ae4&tbnid=U2EPNKEvY2mfEM&vet=12ahUKEwj918e4o__-AhU0pycCHQczDT4QMygDegUIARCgAQ..i&imgrefurl=https%3A%2F%2Fwww.kaggle.com%2Fnilaychauhan%2Fyour-search-ends-here-the-journey-of-kaggle&docid=Ubia0oWf8E-_uM&w=920&h=200&q=kaggle.com%20logo&ved=2ahUKEwj918e4o__-AhU0pycCHQczDT4QMygDegUIARCgAQ))](#)
 
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Geospatial analysis of deprivation in London
