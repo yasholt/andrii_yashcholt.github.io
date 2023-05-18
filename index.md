@@ -5,8 +5,11 @@
 
 2 of the 3 stages have been completed. As of March 2023, a report on intermediate stages 1 and 2 was developed and accepted by the customer. In particular, for Stage 2, "Development of the architecture of the system's neural network modules and planning and conducting experiments with their help to improve the SAKURA-APM system". To order: INNOVINPROM LLC as a subcontractor of the BOWI project under the EU Horizon Programme.
 •	analysing analogues for optimising the technological process using intelligent information technologies; 
+
 •	designing the architecture of neural networks of typical nodal devices of grain elevator routes and identifying models of the technological process of grain elevator operation; 
+
 •	planning of experiments necessary for training neural network models of nodal devices and the system as a whole, 
+
 •	panels for visualisation of the modelling results of these experiments were prepared.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
