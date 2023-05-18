@@ -1,6 +1,4 @@
-## Test_Selected projects in data science, machine learning and NLP_Test
-
----
+## Selected projects in data science, data analyst and machine learning
 
 ### Development of information technologies for optimisation of grain elevator operation using neural network models and reinforcement learning methods (2022-2023)
 
@@ -11,9 +9,10 @@
 - planning of experiments necessary for training neural network models of nodal devices and the system as a whole, 
 - panels for visualisation of the modelling results of these experiments were prepared.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 [View video on YouTube](https://www.youtube.com/watch?v=znz_Dq-T_ZE)
+
 [View Presentation](https://docs.google.com/presentation/d/1HJ1FXLlwPFFpfnDl6lcyr_tp1PtO9KbUaLB1uTRG6jQ/edit?usp=sharing)
 
 
