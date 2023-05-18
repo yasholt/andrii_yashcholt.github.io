@@ -1,8 +1,8 @@
-## Test_Selected projects in data science, machine learning and NLP
+## Test_Selected projects in data science, machine learning and NLP_Test
 
 ---
 
-### Test_Deep NLP for hate speech detection
+### Test_Deep NLP for hate speech detection_Test
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
 
@@ -12,7 +12,7 @@ Hate speech detection is the automated task of determining whether a piece of te
 
 ---
 
-### Examining panic-buying during the first wave of Covid-19, using mobility data
+### __Examining panic-buying during the first wave of Covid-19, using mobility data
 The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
 
 <img src="images/mobility.png?raw=true" />
