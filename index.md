@@ -52,7 +52,7 @@
 [Article](https://visnyk.vntu.edu.ua/index.php/visnyk/article/view/2445/2343)
 
 ---
-### INFORMATION TECHNOLOGY FOR ANALYSING AND FORECASTING THE MULTIWAVE NUMBER OF NEW CASES OF COVID-19 CORONAVIRUS BASED ON THE PROPHET MODEL
+### Information technology for analysing and forecasting the multiwave number of new cases of COVID-19 coronavirus based on the PROPHET model
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
