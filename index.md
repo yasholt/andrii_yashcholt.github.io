@@ -25,7 +25,7 @@
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
-[View Presentation] (https://sait.vntu.edu.ua/wp-content/uploads/2023/02/V_atmo_m.pdf)
+[View Presentation](https://sait.vntu.edu.ua/wp-content/uploads/2023/02/V_atmo_m.pdf)
 
 
 ---
